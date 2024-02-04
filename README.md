@@ -8,12 +8,8 @@ BY
 ###### [Ajay Vemuri](https://www.linkedin.com/in/ajayvemuri/)
  
 
-###### ABSTRACT
-
-
-
-
-    Covid Pandemic has affected every area known to humans, Some fields coped with the pandemic smoothly while others were hit hard and knew that they had to course correct their trajectory for being able to move forward. The Indian education system was one of them..
+##### ABSTRACT
+ Covid Pandemic has affected every area known to humans, Some fields coped with the pandemic smoothly while others were hit hard and knew that they had to course correct their trajectory for being able to move forward. The Indian education system was one of them..
 
     Covid showed us the real gaps in the Indian education system with the whole system switching to online mode of education. Those schools, colleges which had the infrastructure already in place faced little to no problem but a large number of them had to adjust. This project gives a take on how we bring more institutions on the digital infrastructure using cloud and hence reap benefits of economy of scale.
  
@@ -41,17 +37,12 @@ BY
 
 
 
-
-
-
-
-
-##### Problem Definition
+#####  Problem Definition
 
 	In this project we will be attempting to create a portal for an institution for allocating, storing and viewing scores of all students in their respective courses. We will be attempting to  create the portal using cloud services provided by Google Cloud Services through firebase. The reason to do it with cloud is to reduce the costs which have to be paid by institutions to create and manage such an infrastructure.
 
 
-##### Objectives
+#####  Objectives
 
     Our main objective is to create the portal with minimum cost and have minimal managing costs associated with it due to the economy of scale provided by cloud platforms. They can be further divided into the following points:
 
