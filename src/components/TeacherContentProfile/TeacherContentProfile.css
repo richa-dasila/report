@@ -1,0 +1,13 @@
+.teacherbut{
+    background-color: black;
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/finalyearproject22-6db2e.appspot.com/o/Assets%2Fteacheraccbutt.jpg?alt=media&token=3b87ebe4-2f70-4673-a9af-4ac404e5b172") !important;
+    opacity: 0.9;
+    color: #198754;
+    
+
+}
+.teacherbut:not(.collapsed){
+    color: #0d6efd;
+}
+
+
