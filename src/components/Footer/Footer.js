@@ -54,7 +54,7 @@ function Footer() {
                             Useful links
                         </h6>
                         <p>
-                        <    a target="_blank" rel=" noreferrer"href="https://github.com/FinalYearProject22/academic-report" className="text-reset">Github</a>
+                        <a target="_blank" rel=" noreferrer"href="https://richa-dasila.github.io/report/" className="text-reset">Github</a>
                         </p>
                         <p>
                             <a href="#!" className="text-reset">Project Home</a>
@@ -69,11 +69,9 @@ function Footer() {
                         <h6 className="text-uppercase fw-bold mb-4">
                             Team Members
                         </h6>
-                        <p>Vishal Mundhra</p>
-                        <p>Taniya Chanda</p>
-                        <p> Ranjan Yadav</p>
-                        <p> Rahul Kumar Singh</p>
-                        <p> Roshan Jha</p>
+                        
+                        <p><a target="_blank" rel=" noreferrer"href="https://www.linkedin.com/in/richa-dasila-0a6a85152/" className="text-reset">Richa Dasila</a>  </p>
+                        <p><a target="_blank" rel=" noreferrer"href="https://www.linkedin.com/in/ajayvemuri/" className="text-reset">Ajay Vemuri</a>  </p>
                         </div>
         
                     </div>

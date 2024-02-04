@@ -71,7 +71,7 @@ function AdminContentProfile(){
                             <Link  to="ManageTeachers" className="stretched-link"></Link>
                         </div>
                         <div className="card border-0 col-lg-4 text-white">
-                            <img className="card-img img-fluid rounded-3 " src="https://firebasestorage.googleapis.com/v0/b/finalyearproject22-6db2e.appspot.com/o/Assets%2FAdminbg5.jpg?alt=media&token=9ceb2a11-a3c2-4482-8a78-5bc4e36b6830" alt="Card"></img>
+                            <img className="card-img img-fluid rounded-3 " src="https://firebasestorage.googleapis.com/v0/b/academic-report-b725f.appspot.com/o/Assets%2F17926.jpg?alt=media&token=031dbc18-452b-40bb-bbca-a628fb0c61b6" alt="Card"></img>
                             <div className="card-img-overlay ">
                                 <h5 className="card-title mx-2 h1">Manage Assesment</h5>
                                 <div className="card-text mx-2 my-3">
