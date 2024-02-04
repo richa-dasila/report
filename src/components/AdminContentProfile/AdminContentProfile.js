@@ -23,7 +23,7 @@ function AdminContentProfile(){
                             <Link  to="ManageCourses" className="stretched-link"></Link>
                         </div>
                         <div className="card border-0 col-lg-4 text-white">
-                            <img className="card-img img-fluid rounded-3 " src="https://firebasestorage.googleapis.com/v0/b/academic-report-b725f.appspot.com/o/Assets%2Ftechnology-abstract-background-with-particle-lines.jpg?alt=media&token=3056633f-f059-402c-a1a6-05a2fad38903" alt="Card"></img>
+                            <img className="card-img img-fluid rounded-3 " src="https://firebasestorage.googleapis.com/v0/b/academic-report-b725f.appspot.com/o/Assets%2F1434.jpg?alt=media&token=e3e5a439-9626-4bfd-a871-a12eb27807d6" alt="Card"></img>
                             <div className="card-img-overlay ">
                                 <h5 className="card-title mx-2 h1">Manage Batches</h5>
                                 <div className="card-text mx-2 my-3">
@@ -56,7 +56,7 @@ function AdminContentProfile(){
                             <Link  to="ManageStudents" className="stretched-link"></Link>
                         </div>
                         <div className="card border-0 col-lg-4 text-white">
-                            <img className="card-img img-fluid rounded-3 " src="https://firebasestorage.googleapis.com/v0/b/finalyearproject22-6db2e.appspot.com/o/Assets%2FAdminbg4.jpg?alt=media&token=4b90db29-33a9-4998-8368-f9a4c5ddc8ae" alt="Card"></img>
+                            <img className="card-img img-fluid rounded-3 " src="https://firebasestorage.googleapis.com/v0/b/academic-report-b725f.appspot.com/o/Assets%2F162386-OVG3Q9-823.jpg?alt=media&token=8dabaec6-c34f-496e-baa7-f1751486dfcc" alt="Card"></img>
                             <div className="card-img-overlay ">
                                 <h5 className="card-title mx-2 h1">Manage Teachers</h5>
                                 <div className="card-text mx-2 my-3">

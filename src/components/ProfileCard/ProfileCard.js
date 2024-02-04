@@ -43,7 +43,7 @@ function ProfileCard(){
         <> 
          {/* {console.log("1")} */}
             <section className='container-fluid  mb-2 mt-4'>
-            <div id="ProfileCard" className=" rounded-3 text-danger h6  mx-3 py-3">
+            <div id="ProfileCard" className=" rounded-3 text-sucess h5  mx-3 py-3">
                 <div className='row gy-4'>
                     <div className='col-md-10'>
                         <div className='row mb-1 ms-3'><span><em>Name:</em> &nbsp;&nbsp;<span id="user-name"></span></span></div>
