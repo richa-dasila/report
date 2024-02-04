@@ -4,25 +4,11 @@
 
 BY
 
-
-###### [Vishal Mundhra](https://www.linkedin.com/in/vishal15mundhra/)
-###### [Taniya Chanda](https://www.linkedin.com/in/taniya-chanda-281b05185/)
-###### [Ranjan Kumar](https://www.linkedin.com/in/ranjan-kumar-599b131b1/)
-###### [Rahul Kumar Singh](https://github.com/Goodwiller)
-###### [Roshan Jha](https://www.linkedin.com/in/roshan-jha-983281213/)
+###### [Richa Dasila](https://www.linkedin.com/in/richa-dasila-0a6a85152/)
+###### [Ajay Vemuri](https://www.linkedin.com/in/ajayvemuri/)
  
 
-A Project to be submitted to MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY in the partial fulfillment of the requirement for the award of the B.TECH degree in INFORMATION TECHNOLOGY.
-
-Department of Information Technology,
-Academy of Technology
-Affiliated to
-Maulana Abul Kalam Azad University of Technology, West Bengal
-2021-22
-
-
-
-##### ABSTRACT
+###### ABSTRACT
 
 
 
@@ -159,8 +145,8 @@ Users will require:
 
 ## Login Credentials (For testing purposes)
 ### Admin
-- User Name :  iamrahulsingh0801@gmail.com
-- Password : Rahul@123
+- User Name :  mcl2022011@gmail.com
+- Password : Thenights@123
 ### Teacher
 - User Name :  iamrahul@gmail.com
 - Password : Rahul@123
