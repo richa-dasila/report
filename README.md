@@ -121,11 +121,11 @@ Users will require:
 - User Name :  mcl2022011@gmail.com
 - Password : Thenights@123
 ### Teacher
-- User Name :  iamrahul@gmail.com
-- Password : Rahul@123
+- User Name :  iamricha@gmail.com
+- Password : Richa@123
 ### Student
-- User Name :  iamrahulsingh@gmail.com
-- Password : Rahul@123
+- User Name :  iamrich@gmail.com
+- Password : Richa@123
 
 ## Refernces
 https://cloudacademy.com/blog/surprising-ways-cloud-computing-is-changing-education/
